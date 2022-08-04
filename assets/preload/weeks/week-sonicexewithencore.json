@@ -1,0 +1,41 @@
+{
+	"storyName": "Sonic songs with encore version",
+	"difficulties": "Recharted,Hard,Encore",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cycles",
+			"soylent",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"endless",
+			"majin",
+			[
+				0,
+				0,
+				215
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "EncoreSonicWeek",
+	"hiddenUntilUnlocked": false
+}

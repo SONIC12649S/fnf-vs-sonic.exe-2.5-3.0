@@ -1,0 +1,86 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"prey",
+			"furnace",
+			[
+				78,
+				78,
+				78
+			]
+		],
+		[
+			"fight or flight",
+			"starved",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"fatality",
+			"true-fatal",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"personel",
+			"coldsteel",
+			[
+				160,
+				77,
+				164
+			]
+		],
+		[
+			"round-a-bout",
+			"needlemouse",
+			[
+				101,
+				76,
+				151
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				38,
+				72,
+				251
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				0,
+				88,
+				183
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
