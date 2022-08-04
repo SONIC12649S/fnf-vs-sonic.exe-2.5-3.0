@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backgroundStatic.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticBackground0000" x="5" y="45" width="1920" height="1080"/>
+	<SubTexture name="staticBackground0001" x="5" y="45" width="1920" height="1080"/>
+	<SubTexture name="staticBackground0002" x="1935" y="5" width="1920" height="1080"/>
+	<SubTexture name="staticBackground0003" x="1935" y="5" width="1920" height="1080"/>
+</TextureAtlas>
