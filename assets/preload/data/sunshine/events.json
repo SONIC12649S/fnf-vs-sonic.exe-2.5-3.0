@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tailsdoll_alt"
+					]
+				]
+			],
+			[
+				122857.142857143,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tailsdoll"
+					]
+				]
+			]
+		]
+	}
+}
