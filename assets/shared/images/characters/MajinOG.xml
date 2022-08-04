@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MajinOG.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Majin_DOWN0000" x="9" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_DOWN0001" x="9" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_DOWN0002" x="280" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_DOWN0003" x="280" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_DOWN0004" x="557" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_DOWN0005" x="557" y="0" width="241" height="222"/>
+	<SubTexture name="Majin_IDLE0000" x="867" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0001" x="867" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0002" x="1110" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0003" x="1110" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0004" x="1348" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0005" x="1348" y="1" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0006" x="3" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0007" x="3" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0008" x="224" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0009" x="224" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0010" x="461" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_IDLE0011" x="461" y="259" width="200" height="252"/>
+	<SubTexture name="Majin_LEFT0000" x="701" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_LEFT0001" x="701" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_LEFT0002" x="1001" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_LEFT0003" x="1001" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_LEFT0004" x="1328" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_LEFT0005" x="1328" y="262" width="274" height="258"/>
+	<SubTexture name="Majin_RIGHT0000" x="8" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_RIGHT0001" x="8" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_RIGHT0002" x="328" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_RIGHT0003" x="328" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_RIGHT0004" x="678" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_RIGHT0005" x="678" y="536" width="298" height="226"/>
+	<SubTexture name="Majin_UP0000" x="978" y="551" width="215" height="307"/>
+	<SubTexture name="Majin_UP0001" x="978" y="551" width="215" height="307"/>
+	<SubTexture name="Majin_UP0002" x="1221" y="551" width="215" height="307"/>
+	<SubTexture name="Majin_UP0003" x="1221" y="551" width="215" height="307"/>
+	<SubTexture name="Majin_UP0004" x="1472" y="551" width="215" height="307"/>
+	<SubTexture name="Majin_UP0005" x="1472" y="551" width="215" height="307"/>
+</TextureAtlas>

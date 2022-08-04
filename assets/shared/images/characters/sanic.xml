@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leftsanicouyea.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sanicdown0000" x="0" y="0" width="254" height="227" frameX="0" frameY="0" frameWidth="276" frameHeight="227"/>
+	<SubTexture name="sanicdown0001" x="254" y="0" width="272" height="178" frameX="-4" frameY="-42" frameWidth="276" frameHeight="227"/>
+	<SubTexture name="sanicdown0002" x="526" y="0" width="226" height="189" frameX="-14" frameY="-25" frameWidth="276" frameHeight="227"/>
+	<SubTexture name="sanicidle0000" x="752" y="0" width="316" height="293" frameX="-2" frameY="0" frameWidth="318" frameHeight="293"/>
+	<SubTexture name="sanicidle0001" x="0" y="293" width="317" height="289" frameX="0" frameY="-4" frameWidth="318" frameHeight="293"/>
+	<SubTexture name="sanicidle0002" x="317" y="293" width="317" height="290" frameX="0" frameY="-3" frameWidth="318" frameHeight="293"/>
+	<SubTexture name="sanicright0000" x="634" y="293" width="269" height="309" frameX="0" frameY="-10" frameWidth="275" frameHeight="319"/>
+	<SubTexture name="sanicright0001" x="903" y="293" width="272" height="318" frameX="-3" frameY="0" frameWidth="275" frameHeight="319"/>
+	<SubTexture name="sanicup0000" x="0" y="611" width="333" height="323" frameX="0" frameY="-11" frameWidth="333" frameHeight="336"/>
+	<SubTexture name="sanicup0001" x="333" y="611" width="316" height="336" frameX="-5" frameY="0" frameWidth="333" frameHeight="336"/>
+	<SubTexture name="sanixleft0000" x="649" y="611" width="322" height="306" frameX="0" frameY="0" frameWidth="322" frameHeight="307"/>
+	<SubTexture name="sanixleft0001" x="971" y="611" width="310" height="303" frameX="0" frameY="-4" frameWidth="322" frameHeight="307"/>
+</TextureAtlas>

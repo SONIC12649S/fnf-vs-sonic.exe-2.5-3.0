@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC_X.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="X_Down instance 10000" x="5" y="5" width="729" height="651"/>
+	<SubTexture name="X_Down instance 10001" x="744" y="5" width="729" height="651"/>
+	<SubTexture name="X_Down instance 10002" x="1483" y="5" width="729" height="651"/>
+	<SubTexture name="X_Down instance 10003" x="2222" y="5" width="729" height="651"/>
+	<SubTexture name="X_Idle instance 10000" x="2961" y="5" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10001" x="2789" y="710" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10002" x="2733" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10003" x="2733" y="1415" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10004" x="2613" y="2120" width="625" height="695"/>
+	<SubTexture name="X_Idle instance 10005" x="2613" y="2120" width="625" height="695"/>
+	<SubTexture name="X_Left instance 10000" x="5" y="666" width="686" height="688"/>
+	<SubTexture name="X_Left instance 10001" x="701" y="666" width="686" height="688"/>
+	<SubTexture name="X_Left instance 10002" x="1397" y="666" width="686" height="688"/>
+	<SubTexture name="X_Left instance 10003" x="2093" y="666" width="686" height="688"/>
+	<SubTexture name="X_Right instance 10000" x="5" y="1364" width="672" height="712"/>
+	<SubTexture name="X_Right instance 10001" x="687" y="1364" width="672" height="712"/>
+	<SubTexture name="X_Right instance 10002" x="1369" y="1364" width="672" height="712"/>
+	<SubTexture name="X_Right instance 10003" x="2051" y="1364" width="672" height="712"/>
+	<SubTexture name="X_Up instance 10000" x="5" y="2086" width="642" height="783"/>
+	<SubTexture name="X_Up instance 10001" x="657" y="2086" width="642" height="783"/>
+	<SubTexture name="X_Up instance 10002" x="1309" y="2086" width="642" height="783"/>
+	<SubTexture name="X_Up instance 10003" x="1961" y="2086" width="642" height="783"/>
+</TextureAtlas>
