@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-46
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "laugh_Instance",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				65,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-42
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				70
+			],
+			"anim": "singUP",
+			"fps": 42,
+			"name": "normal_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 38,
+			"name": "normal_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 40,
+			"name": "normal_down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-18,
+				93
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "normal_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				70
+			],
+			"loop": false,
+			"fps": 42,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "normal_up"
+		},
+		{
+			"offsets": [
+				-25,
+				-32
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "normal_right"
+		},
+		{
+			"offsets": [
+				-21,
+				-32
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "normal_right"
+		},
+		{
+			"offsets": [
+				177,
+				40
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "normal_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/YCR",
+	"position": [
+		220,
+		280
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		13,
+		135
+	],
+	"camera_position": [
+		-290,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 3.3
+}
