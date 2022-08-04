@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nodii idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nodii left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nodii up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nodii right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "nodii miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "nodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "nodii death",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "nodii deathloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "nodii continue",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "nodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "nodii down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				114
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "nodii down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nodii",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nodii",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

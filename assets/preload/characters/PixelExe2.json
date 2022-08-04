@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel idle"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE UP"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic_EXE_Pixel NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Sonic_EXE_Pixel_2",
+	"position": [
+		220,
+		500
+	],
+	"healthicon": "ycrpixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		160
+	],
+	"camera_position": [
+		-180,
+		-360
+	],
+	"sing_duration": 6.1,
+	"scale": 12
+}

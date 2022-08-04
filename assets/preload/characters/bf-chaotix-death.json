@@ -1,41 +1,41 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-26,
-				-12
+				0,
+				-1
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "deathConfirm",
-			"indices": [],
-			"name": "RETRY CONFIRM"
+			"loop": false,
+			"name": "chaotix bf dead confirm"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				-30,
-				-12
+				6,
+				0
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "deathLoop",
-			"indices": [],
-			"name": "Retry Loop"
+			"loop": true,
+			"name": "chaotix bf death loop"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"indices": [],
 			"fps": 24,
 			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF Dies pixel"
+			"loop": false,
+			"name": "chaotix bf dies"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixelsDEAD",
+	"image": "characters/chaotix_bf_death",
 	"position": [
 		0,
 		350

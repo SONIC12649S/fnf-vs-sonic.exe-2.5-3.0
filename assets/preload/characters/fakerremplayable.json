@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-239
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fakerrem idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-211
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fakerrem right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fakerrem down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fakerrem up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-234
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fakerrem left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-5
+			],
+			"anim": "hit1",
+			"fps": 24,
+			"name": "MXHit1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				62
+			],
+			"anim": "hit2",
+			"fps": 24,
+			"name": "MXHit2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fakerrem",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fakerrem",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		36,
+		124
+	],
+	"camera_position": [
+		-30,
+		60
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.2
+}
