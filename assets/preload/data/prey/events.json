@@ -1,0 +1,158 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "starved-pixel",
+		"player1": "bf-running-sonic",
+		"player2": "Furnace",
+		"player3": null,
+		"events": [
+			[
+				130909.090909091,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"starved-pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time around!",
+						"3"
+					],
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					],
+					[
+						"Play Animation",
+						"dialogue",
+						"dad"
+					]
+				]
+			],
+			[
+				135340.909090909,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!",
+						"0.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						"1.1"
+					]
+				]
+			],
+			[
+				138494.318181818,
+				[
+					[
+						"Lyrics",
+						"You don't even know your fate, hedgehog...--0xFF0000",
+						"3.7"
+					]
+				]
+			],
+			[
+				138579.545454546,
+				[
+					[
+						"strum swap1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142840.909090909,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*--0xFF0000",
+						"8.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				152045.454545455,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				283636.363636363,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				284232.954545453,
+				[
+					[
+						"Lyrics",
+						"Man, you really like scrambling your own plans don't'cha-",
+						"3"
+					],
+					[
+						"Play Animation",
+						"dialogue peel",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFno",
+		"bpm": 176,
+		"arrowSkin": "PixelNOTE_assets",
+		"needsVoices": true,
+		"song": "Prey"
+	}
+}
