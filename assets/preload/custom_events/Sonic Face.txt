@@ -1,0 +1,3 @@
+Name checks out
+Value1: Duration
+Value2: Sprite

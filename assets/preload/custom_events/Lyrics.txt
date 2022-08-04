@@ -1,0 +1,6 @@
+Value 1 = Lyrics.
+to put a color, you have to write the
+text with the final "--color parameter" example:
+Sonic is good--FF0000
+
+Value 2 = timer(if empty, no dialog will appear)

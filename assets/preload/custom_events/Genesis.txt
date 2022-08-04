@@ -1,0 +1,3 @@
+v1 = if true, green hill will appears.
+
+if false, green hill will be destroy.
