@@ -1,0 +1,434 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "too-slow",
+		"player1": "bf-encore",
+		"player2": "sonicexe",
+		"player3": null,
+		"events": [
+			[
+				44215.0537634409,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				44408.6021505376,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				44602.1505376344,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				44795.6989247312,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				44989.247311828,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				45182.7956989247,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				45376.3440860215,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				92992.7836237134,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				93081.0189178311,
+				[
+					[
+						"Lyrics",
+						"I'm",
+						"2"
+					]
+				]
+			],
+			[
+				93595.3046321168,
+				[
+					[
+						"Lyrics",
+						"I'm go",
+						"0.2"
+					]
+				],
+				null,
+				""
+			],
+			[
+				93766.7332035454,
+				[
+					[
+						"Lyrics",
+						"I'm gonna",
+						"1"
+					]
+				],
+				null,
+				""
+			],
+			[
+				94109.5903464025,
+				[
+					[
+						"Lyrics",
+						"I'm gonna get",
+						"1"
+					]
+				]
+			],
+			[
+				94452.4474892597,
+				[
+					[
+						"Lyrics",
+						"I'm gonna getcha!",
+						"1.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				96338.1617749739,
+				[
+					[
+						"Lyrics",
+						"I",
+						"1"
+					]
+				],
+				null,
+				""
+			],
+			[
+				96852.4474892597,
+				[
+					[
+						"Lyrics",
+						"I'm",
+						"1"
+					]
+				],
+				null,
+				""
+			],
+			[
+				98052.4474892596,
+				[
+					[
+						"Lyrics",
+						"GOD!--FF0000",
+						"1.5"
+					]
+				],
+				null,
+				""
+			],
+			[
+				100109.590346402,
+				[
+					[
+						"Lyrics",
+						"*demonic laugh*",
+						"4"
+					]
+				]
+			],
+			[
+				100623.876060688,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				101223.876060688,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				101823.876060688,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				102509.590346402,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				103195.304632117,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103538.161774974,
+				[
+					[
+						"Close Lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104052.44748926,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				135268.133763769,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				135439.562335198,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				135653.848049484,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				135996.705192341,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				],
+				null,
+				""
+			],
+			[
+				136339.562335198,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 135,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "too-slow-encore"
+	}
+}
