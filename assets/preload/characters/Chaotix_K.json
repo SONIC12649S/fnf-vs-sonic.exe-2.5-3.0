@@ -2,97 +2,88 @@
 	"animations": [
 		{
 			"offsets": [
-				103,
-				-76
+				20,
+				290
 			],
-			"cameraOffset": [
-				-30,
-				0
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chaotix_K idle"
+		},
+		{
+			"offsets": [
+				260,
+				310
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Left0"
+			"name": "Chaotix_K left"
 		},
 		{
 			"offsets": [
-				-12,
-				-22
-			],
-			"cameraOffset": [
-				0,
-				-30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up0"
-		},
-		{
-			"offsets": [
-				-6,
-				-81
-			],
-			"cameraOffset": [
-				0,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down0"
-		},
-		{
-			"offsets": [
-				-17,
-				-43
-			],
-			"cameraOffset": [
-				30,
-				0
+				190,
+				322
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Right0"
+			"name": "Chaotix_K right"
 		},
 		{
 			"offsets": [
-				-5,
-				-30
+				155,
+				320
 			],
-			"cameraOffset": [
-				0,
-				0
-			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "Idle"
+			"name": "Chaotix_K down"
+		},
+		{
+			"offsets": [
+				190,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chaotix_K up"
+		},
+		{
+			"offsets": [
+				440,
+				750
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "trans",
+			"loop": false,
+			"name": "Chaotix_K trans"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Whisper_Requital",
+	"image": "characters/Chaotix_K",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "tails",
+	"healthicon": "Chaotix_k",
 	"flip_x": false,
 	"healthbar_colors": [
-		102,
-		102,
-		102
+		227,
+		92,
+		130
 	],
 	"camera_position": [
-		-180,
+		0,
 		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }

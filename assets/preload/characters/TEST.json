@@ -2,95 +2,75 @@
 	"animations": [
 		{
 			"offsets": [
-				103,
-				-76
-			],
-			"cameraOffset": [
-				-30,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left0"
-		},
-		{
-			"offsets": [
-				-12,
-				-22
-			],
-			"cameraOffset": [
-				0,
-				-30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Up0"
-		},
-		{
-			"offsets": [
-				-6,
-				-81
-			],
-			"cameraOffset": [
-				0,
-				30
+				-225,
+				-50
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Down0"
+			"name": "Dad Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				-17,
-				-43
+				-225,
+				-6
 			],
-			"cameraOffset": [
-				30,
-				0
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-225,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-225,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Right0"
+			"name": "Dad Sing Note DOWN"
 		},
 		{
 			"offsets": [
-				-5,
-				-30
-			],
-			"cameraOffset": [
-				0,
+				-225,
 				0
 			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Idle"
+			"name": "Dad Sing Note DOWN"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Whisper_Requital",
+	"image": "characters/test",
 	"position": [
 		0,
-		0
+		350
 	],
-	"healthicon": "tails",
+	"healthicon": "metalsonic",
 	"flip_x": false,
 	"healthbar_colors": [
-		102,
-		102,
-		102
+		78,
+		78,
+		78
 	],
 	"camera_position": [
-		-180,
+		-210,
 		0
 	],
 	"sing_duration": 4,

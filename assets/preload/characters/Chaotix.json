@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				732
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chaotix right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				331,
+				636
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chaotix down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				690
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chaotix up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				301,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "trans",
+			"indices": [],
+			"name": "Chaotix trans"
+		},
+		{
+			"offsets": [
+				450,
+				690
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chaotix left"
+		},
+		{
+			"offsets": [
+				300,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chaotix idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chaotix",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Chaotix",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		191,
+		226
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
