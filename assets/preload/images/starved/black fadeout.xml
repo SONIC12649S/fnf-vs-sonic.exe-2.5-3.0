@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="black fadeout.png">
+<SubTexture name="black tween0000" x="265" y="0" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0001" x="0" y="265" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0002" x="264" y="265" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0003" x="529" y="0" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0004" x="529" y="264" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0005" x="0" y="529" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0006" x="264" y="529" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0007" x="528" y="529" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0008" x="793" y="0" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0009" x="793" y="264" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0010" x="793" y="528" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0011" x="0" y="793" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0012" x="264" y="793" width="264" height="264" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+<SubTexture name="black tween0013" x="0" y="0" width="265" height="265" frameX="0" frameY="0" frameWidth="265" frameHeight="265" />
+</TextureAtlas>
