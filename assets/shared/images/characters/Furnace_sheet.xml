@@ -1,137 +1,135 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Furnace sheet.png">
-	<!-- Created with Adobe Animate version 22.0.0.93 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Furnace down0000" x="0" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0001" x="127" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0002" x="254" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0003" x="381" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0004" x="508" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0005" x="635" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0006" x="762" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0007" x="889" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0008" x="1016" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0009" x="1143" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0010" x="1270" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0011" x="1397" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0012" x="1524" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0013" x="1651" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0014" x="1778" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0015" x="1905" y="0" width="127" height="89"/>
-	<SubTexture name="Furnace down0016" x="0" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0017" x="127" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0018" x="254" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0019" x="381" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0020" x="508" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0021" x="635" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0022" x="762" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0023" x="889" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0024" x="1016" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0025" x="1143" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0026" x="1270" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0027" x="1397" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0028" x="1524" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0029" x="1651" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0030" x="1778" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace down0031" x="1905" y="89" width="127" height="89"/>
-	<SubTexture name="Furnace idle0000" x="0" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace idle0001" x="127" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace idle0002" x="254" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace idle0003" x="381" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0000" x="508" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0001" x="635" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0002" x="762" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0003" x="889" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0004" x="1016" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0005" x="1143" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0006" x="1270" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0007" x="1397" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0008" x="1524" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0009" x="1651" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0010" x="1778" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0011" x="1905" y="178" width="127" height="89"/>
-	<SubTexture name="Furnace left0012" x="0" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0013" x="127" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0014" x="254" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0015" x="381" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0016" x="508" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0017" x="635" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0018" x="762" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0019" x="889" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0020" x="1016" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0021" x="1143" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0022" x="1270" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0023" x="1397" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0024" x="1524" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0025" x="1651" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0026" x="1778" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0027" x="1905" y="267" width="127" height="89"/>
-	<SubTexture name="Furnace left0028" x="0" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace left0029" x="127" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace left0030" x="254" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace left0031" x="381" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0000" x="508" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0001" x="635" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0002" x="762" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0003" x="889" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0004" x="1016" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0005" x="1143" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0006" x="1270" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0007" x="1397" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0008" x="1524" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0009" x="1651" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0010" x="1778" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0011" x="1905" y="356" width="127" height="89"/>
-	<SubTexture name="Furnace right0012" x="0" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0013" x="127" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0014" x="254" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0015" x="381" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0016" x="508" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0017" x="635" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0018" x="762" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0019" x="889" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0020" x="1016" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0021" x="1143" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0022" x="1270" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0023" x="1397" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0024" x="1524" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0025" x="1651" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0026" x="1778" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0027" x="1905" y="445" width="127" height="89"/>
-	<SubTexture name="Furnace right0028" x="0" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace right0029" x="127" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace right0030" x="254" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace right0031" x="381" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0000" x="508" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0001" x="635" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0002" x="762" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0003" x="889" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0004" x="1016" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0005" x="1143" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0006" x="1270" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0007" x="1397" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0008" x="1524" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0009" x="1651" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0010" x="1778" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0011" x="1905" y="534" width="127" height="89"/>
-	<SubTexture name="Furnace up0012" x="0" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0013" x="127" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0014" x="254" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0015" x="381" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0016" x="508" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0017" x="635" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0018" x="762" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0019" x="889" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0020" x="1016" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0021" x="1143" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0022" x="1270" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0023" x="1397" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0024" x="1524" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0025" x="1651" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0026" x="1778" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0027" x="1905" y="623" width="127" height="89"/>
-	<SubTexture name="Furnace up0028" x="0" y="712" width="127" height="89"/>
-	<SubTexture name="Furnace up0029" x="127" y="712" width="127" height="89"/>
-	<SubTexture name="Furnace up0030" x="254" y="712" width="127" height="89"/>
-	<SubTexture name="Furnace up0031" x="381" y="712" width="127" height="89"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Furnace_sheet.png">
+<SubTexture name="Furnace down0000" x="0" y="71" width="56" height="67" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0001" x="208" y="129" width="57" height="63" frameX="-8" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0002" x="0" y="138" width="56" height="66" frameX="-9" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0003" x="56" y="71" width="58" height="67" frameX="-8" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0004" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0005" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0006" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0007" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0008" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0009" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0010" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0011" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0012" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0013" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0014" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0015" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0016" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0017" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0018" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0019" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0020" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0021" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0022" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0023" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0024" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0025" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0026" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0027" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0028" x="208" y="0" width="58" height="65" frameX="-8" frameY="-20" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0029" x="267" y="269" width="58" height="59" frameX="-8" frameY="-26" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0030" x="337" y="124" width="57" height="61" frameX="-9" frameY="-24" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace down0031" x="208" y="65" width="58" height="64" frameX="-8" frameY="-21" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace idle0000" x="71" y="204" width="63" height="64" frameX="-18" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace idle0001" x="363" y="331" width="64" height="57" frameX="-17" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace idle0002" x="337" y="185" width="63" height="60" frameX="-18" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace idle0003" x="0" y="269" width="64" height="62" frameX="-17" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0000" x="266" y="0" width="71" height="65" frameX="-7" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0001" x="64" y="269" width="69" height="62" frameX="-7" frameY="-17" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0002" x="133" y="269" width="70" height="62" frameX="-9" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0003" x="266" y="65" width="71" height="65" frameX="-9" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0004" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0005" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0006" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0007" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0008" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0009" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0010" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0011" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0012" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0013" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0014" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0015" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0016" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0017" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0018" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0019" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0020" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0021" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0022" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0023" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0024" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0025" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0026" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0027" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0028" x="56" y="138" width="64" height="66" frameX="-11" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0029" x="337" y="245" width="65" height="60" frameX="-10" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0030" x="203" y="269" width="64" height="62" frameX="-11" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace left0031" x="266" y="130" width="65" height="65" frameX="-10" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0000" x="91" y="331" width="94" height="61" frameX="-30" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0001" x="0" y="393" width="93" height="56" frameX="-28" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0002" x="185" y="331" width="88" height="59" frameX="-28" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0003" x="337" y="0" width="90" height="62" frameX="-26" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0004" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0005" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0006" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0007" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0008" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0009" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0010" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0011" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0012" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0013" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0014" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0015" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0016" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0017" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0018" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0019" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0020" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0021" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0022" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0023" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0024" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0025" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0026" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0027" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0028" x="205" y="204" width="90" height="63" frameX="-25" frameY="-12" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0029" x="427" y="0" width="91" height="57" frameX="-24" frameY="-18" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0030" x="273" y="331" width="90" height="59" frameX="-25" frameY="-16" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace right0031" x="0" y="331" width="91" height="62" frameX="-24" frameY="-13" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0000" x="134" y="204" width="71" height="64" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0001" x="337" y="62" width="70" height="62" frameX="-13" frameY="-8" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0002" x="120" y="138" width="66" height="66" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0003" x="70" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0004" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0005" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0006" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0007" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0008" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0009" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0010" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0011" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0012" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0013" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0014" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0015" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0016" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0017" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0018" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0019" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0020" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0021" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0022" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0023" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0024" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0025" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0026" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0027" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0028" x="0" y="0" width="70" height="71" frameX="-14" frameY="-3" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0029" x="0" y="204" width="71" height="65" frameX="-13" frameY="-9" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0030" x="114" y="71" width="68" height="67" frameX="-16" frameY="-7" frameWidth="127" frameHeight="89" />
+<SubTexture name="Furnace up0031" x="139" y="0" width="69" height="70" frameX="-15" frameY="-4" frameWidth="127" frameHeight="89" />
 </TextureAtlas>
